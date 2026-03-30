@@ -1,6 +1,6 @@
 # 📊 Data Professional Survey
 
-![Image Alt](https://github.com/wilhmhkm/Data_Professional_Survey/blob/1fff17f68efd9ce3f683bb7d661f3361b31b7ae4/Screenshot%202026-03-30%20221759.jpg)
+![Image Alt](https://github.com/wilhmhkm/Data_Professional_Survey/blob/7e6d41936bbd50bf983b3ecafc23487bf8416bcd/Project%20Dashboard.jpg)
 
 ## 📌 Executive Summary
 This project presents an interactive **Power BI dashboard** built using real-world survey data collected from ~630 data professionals. The objective was to transform raw, unstructured survey responses into meaningful insights about roles, salaries, skills, and career experiences within the data industry.
