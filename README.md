@@ -2,7 +2,7 @@
 
 ![Image Alt](https://github.com/wilhmhkm/Data_Professional_Survey/blob/7e6d41936bbd50bf983b3ecafc23487bf8416bcd/Project%20Dashboard.jpg)
 
-**Note on Accessibility:** Because Microsoft Power BI requires a **Work or School (Organizational) account** to publish live URLs, this project is hosted as a local `.pbix` file. [Download the .pbix file here.](./your-filename-here.pbix)
+**Note on Accessibility:** Because Microsoft Power BI requires a **Work or School (Organizational) account** to publish live URLs, this project is hosted as a local `.pbix` file. [Download the .pbix file here.](./Project Dashboard.pbix)
 
 ## 📌 Executive Summary
 
